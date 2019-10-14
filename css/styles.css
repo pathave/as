@@ -1,4 +1,4 @@
-
+ 
 /*Slide-bar*/
 
 .sidebar {
@@ -62,6 +62,35 @@
   text-align: center;
   color: white;
 }
+/*bell section*/
+
+
+
+.notification-box {
+    position: fixed;
+    width: 50px;
+    text-align: center;
+    right: 200px;
+    hieght: 66px;
+
+}
+
+
+.notification-count {
+    position: absolute;
+    right: -6px;
+    width: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    border-radius: 50%;
+    background-color: #ff4927;
+    color: #fff;
+
+}
+
+
+
+
 /*left section*/
 
  .square-icon{
